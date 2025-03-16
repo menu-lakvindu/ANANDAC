@@ -1,0 +1,34 @@
+.basic{
+    margin-left: 1100px;
+    width: 1000px;
+}
+
+.headingV{
+    text color:  ;
+    margin-top: 50px;
+    color: rgb(134, 15, 39);
+    margin-left: 20px;
+}
+
+.paraV{
+    margin-left: 20px;
+    margin-right: 700px;
+    text-shadow: 20px;
+    text width: 1000px;
+}
+
+.headingM{
+    margin-right: 20px;
+    margin-top: 50px;
+    text-align: right;
+    color: rgb(134, 15, 39);
+   
+
+}
+
+.paraM{
+   margin-right: 20px;
+    text-align: right;
+    margin-left: 700px;
+    text width: 50px;
+}
