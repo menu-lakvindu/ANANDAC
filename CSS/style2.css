@@ -39,3 +39,32 @@
     margin-left: 50px;
     margin-right: 50px;
 }
+.lasth3{
+    position: relative;
+    left: 300px;
+}
+.lastim{
+    position: relative;
+    left:340px;
+}
+.lastTd{
+    position: relative;
+    left: 230px;
+}
+
+.Q1{
+    position: relative;
+    left: 320px;
+}
+.Q2{
+ position: relative;
+ left: 320px;
+ 
+}
+
+.Q4{
+    position: absolute;
+    left: 600px;
+    position: relative;
+    top: 25px;
+}
