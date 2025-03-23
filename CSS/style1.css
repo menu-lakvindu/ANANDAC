@@ -1,6 +1,14 @@
+
+
+
 .basic{
     margin-left: 1100px;
     width: 1000px;
+}
+
+.image1{
+    position: absolute;
+    left:30px;
 }
 
 .headingV{
